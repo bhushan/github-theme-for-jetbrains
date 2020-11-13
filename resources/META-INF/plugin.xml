@@ -1,0 +1,45 @@
+<idea-plugin>
+  <id>club.nutsoft.Github3Theme</id>
+  <name>Github3 Theme</name>
+  <version>1.0</version>
+  <vendor email="jiyuan0125@126.com" url="http://www.nutsoft.club">NutSoft</vendor>
+
+  <description><![CDATA[
+  Github3 Theme
+  <br/><br/>
+  To install:
+  <ul>
+  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+  <li>Restart IDE</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+  </ul>
+  <br/>
+
+    ]]></description>
+
+  <change-notes><![CDATA[
+  <b>1.0</b>
+  <ul>
+    <li>Add installation instructions</li>
+    <li>Unbundle plugin screenshots</li>
+  </ul>
+    ]]>
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+      <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Github3.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
