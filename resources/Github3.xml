@@ -1,10 +1,10 @@
 <scheme name="GitHub3" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2020-11-14T21:05:24</property>
-        <property name="ide">idea</property>
-        <property name="ideVersion">2020.2.3.0.0</property>
-        <property name="modified">2020-11-14T21:05:33</property>
-        <property name="originalScheme">GitHub3</property>
+        <property name="created">2020-12-01T14:38:17</property>
+        <property name="ide">Idea</property>
+        <property name="ideVersion">2020.2.4.0.0</property>
+        <property name="modified">2020-12-01T14:38:23</property>
+        <property name="originalScheme">_@user_GitHub3</property>
     </metaInfo>
     <colors>
         <option name="CARET_ROW_COLOR" value="f1f8ff" />
@@ -115,6 +115,11 @@
                 <option name="FOREGROUND" value="646464" />
             </value>
         </option>
+        <option name="CONSOLE_ERROR_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="a91b1b" />
+            </value>
+        </option>
         <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="a237" />
@@ -135,6 +140,11 @@
                 <option name="FOREGROUND" value="ef61a2" />
             </value>
         </option>
+        <option name="CONSOLE_NORMAL_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="24292e" />
+            </value>
+        </option>
         <option name="CONSOLE_RED_BRIGHT_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="e62000" />
@@ -143,6 +153,17 @@
         <option name="CONSOLE_RED_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="a91b1b" />
+            </value>
+        </option>
+        <option name="CONSOLE_SYSTEM_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="529b" />
+            </value>
+        </option>
+        <option name="CONSOLE_USER_INPUT">
+            <value>
+                <option name="FOREGROUND" value="a237" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -718,6 +739,31 @@
         <option name="JSON.PROPERTY_KEY">
             <value>
                 <option name="FOREGROUND" value="32f62" />
+            </value>
+        </option>
+        <option name="LOG_DEBUG_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="186b4" />
+            </value>
+        </option>
+        <option name="LOG_ERROR_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="a91b1b" />
+            </value>
+        </option>
+        <option name="LOG_INFO_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="a237" />
+            </value>
+        </option>
+        <option name="LOG_VERBOSE_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="529b" />
+            </value>
+        </option>
+        <option name="LOG_WARNING_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="b68e00" />
             </value>
         </option>
         <option name="MAGIC_MEMBER_ACCESS">
