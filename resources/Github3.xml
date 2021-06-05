@@ -14,6 +14,11 @@
         <option name="SELECTION_FOREGROUND" value="" />
     </colors>
     <attributes>
+        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="5cc5" />
+            </value>
+        </option>
         <option name="ANNOTATION_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="d73a49" />
