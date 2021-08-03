@@ -1,9 +1,9 @@
 <scheme name="Github3 Dark Dimmed" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-08-04T00:19:13</property>
-        <property name="ide">CLion</property>
+        <property name="created">2021-08-04T00:51:15</property>
+        <property name="ide">Python</property>
         <property name="ideVersion">2021.2.0.0</property>
-        <property name="modified">2021-08-04T00:19:32</property>
+        <property name="modified">2021-08-04T00:51:24</property>
         <property name="originalScheme">_@user_Github3 Dark Dimmed</property>
     </metaInfo>
     <colors>
@@ -339,7 +339,7 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="8ddb8c" />
+                <option name="BACKGROUND" value="266a70" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -353,6 +353,26 @@
                 <option name="FOREGROUND" value="f47067" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
+        </option>
+        <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+        <option name="PY.DOC_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="96d0ff" />
+            </value>
+        </option>
+        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PY.PREDEFINED_DEFINITION">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="PY.PREDEFINED_USAGE">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="PY.SELF_PARAMETER">
+            <value />
         </option>
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
