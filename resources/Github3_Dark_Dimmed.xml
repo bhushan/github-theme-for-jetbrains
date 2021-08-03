@@ -1,9 +1,9 @@
 <scheme name="Github3 Dark Dimmed" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-08-03T23:08:49</property>
-        <property name="ide">idea</property>
+        <property name="created">2021-08-04T00:10:20</property>
+        <property name="ide">GoLand</property>
         <property name="ideVersion">2021.2.0.0</property>
-        <property name="modified">2021-08-03T23:09:00</property>
+        <property name="modified">2021-08-04T00:10:28</property>
         <property name="originalScheme">_@user_Github3 Dark Dimmed</property>
     </metaInfo>
     <colors>
@@ -216,6 +216,11 @@
                 <option name="FOREGROUND" value="dcbdfb" />
             </value>
         </option>
+        <option name="DEFAULT_NUMBER">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
                 <option name="FOREGROUND" value="f47067" />
@@ -251,6 +256,43 @@
                 <option name="FOREGROUND" value="96d0ff" />
                 <option name="EFFECT_COLOR" value="96d0ff" />
                 <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_TYPE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="f47067" />
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="GO_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="GO_LOCAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="GO_LOCAL_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="GO_TYPE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="f69d50" />
             </value>
         </option>
         <option name="HTML_ATTRIBUTE_NAME">
