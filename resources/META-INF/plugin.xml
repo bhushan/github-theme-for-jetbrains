@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>club.nutsoft.Github3Theme</id>
   <name>Github3 Theme</name>
-  <version>1.0.2</version>
+  <version>1.1.0</version>
   <vendor email="jiyuan0125@126.com" url="https://github.com/jiyuan0125/Github3">jiyuan0125</vendor>
 
   <description><![CDATA[
@@ -18,6 +18,10 @@
     ]]></description>
 
   <change-notes><![CDATA[
+  <b>1.1.0</b>
+  <ul>
+    <li>Add github dark dimmed theme</li>
+  </ul>
   <b>1.0.2</b>
   <ul>
     <li>Fixes missing Java annotation attribute name</li>
@@ -43,7 +47,8 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-      <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Github3.theme.json"/>
+    <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Github3_Light.theme.json"/>
+    <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/Github3_Dark_Dimmed.theme.json"/>
   </extensions>
 
   <actions>
