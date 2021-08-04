@@ -1,9 +1,9 @@
 <scheme name="Github3 Dark Dimmed" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-08-04T15:47:09</property>
-        <property name="ide">PhpStorm</property>
+        <property name="created">2021-08-04T19:23:17</property>
+        <property name="ide">Rider</property>
         <property name="ideVersion">2021.2.0.0</property>
-        <property name="modified">2021-08-04T15:47:15</property>
+        <property name="modified">2021-08-04T19:23:30</property>
         <property name="originalScheme">_@user_Github3 Dark Dimmed</property>
     </metaInfo>
     <colors>
@@ -416,6 +416,11 @@
         </option>
         <option name="PY.SELF_PARAMETER">
             <value />
+        </option>
+        <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
+            <value>
+                <option name="FOREGROUND" value="f69d50" />
+            </value>
         </option>
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
