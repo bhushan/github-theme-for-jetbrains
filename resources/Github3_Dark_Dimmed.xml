@@ -1,9 +1,9 @@
 <scheme name="Github3 Dark Dimmed" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-08-04T19:23:17</property>
-        <property name="ide">Rider</property>
+        <property name="created">2021-08-04T19:41:12</property>
+        <property name="ide">Ruby</property>
         <property name="ideVersion">2021.2.0.0</property>
-        <property name="modified">2021-08-04T19:23:30</property>
+        <property name="modified">2021-08-04T19:41:27</property>
         <property name="originalScheme">_@user_Github3 Dark Dimmed</property>
     </metaInfo>
     <colors>
@@ -417,6 +417,65 @@
         <option name="PY.SELF_PARAMETER">
             <value />
         </option>
+        <option name="RUBY_COLON">
+            <value>
+                <option name="FOREGROUND" value="f69d50" />
+            </value>
+        </option>
+        <option name="RUBY_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="808080" />
+            </value>
+        </option>
+        <option name="RUBY_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="f69d50" />
+            </value>
+        </option>
+        <option name="RUBY_CONSTANT_DECLARATION">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="RUBY_EXPR_IN_STRING">
+            <value>
+                <option name="FOREGROUND" value="96d0ff" />
+            </value>
+        </option>
+        <option name="RUBY_HASH_KEY">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
+        <option name="RUBY_HEREDOC_ID">
+            <value>
+                <option name="FOREGROUND" value="96d0ff" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="RUBY_LOCAL_VAR_ID">
+            <value />
+        </option>
+        <option name="RUBY_METHOD_NAME">
+            <value>
+                <option name="FOREGROUND" value="dcbdfb" />
+            </value>
+        </option>
+        <option name="RUBY_PARAMETER_ID">
+            <value />
+        </option>
+        <option name="RUBY_REGEXP">
+            <value>
+                <option name="FOREGROUND" value="96d0ff" />
+            </value>
+        </option>
+        <option name="RUBY_SPECIFIC_CALL">
+            <value>
+                <option name="FOREGROUND" value="f47067" />
+            </value>
+        </option>
+        <option name="RUBY_WORDS" baseAttributes="DEFAULT_STRING" />
         <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="f69d50" />
