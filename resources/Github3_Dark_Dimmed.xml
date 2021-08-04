@@ -1,9 +1,9 @@
 <scheme name="Github3 Dark Dimmed" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-08-04T00:51:15</property>
-        <property name="ide">Python</property>
+        <property name="created">2021-08-04T08:16:42</property>
+        <property name="ide">CLion</property>
         <property name="ideVersion">2021.2.0.0</property>
-        <property name="modified">2021-08-04T00:51:24</property>
+        <property name="modified">2021-08-04T08:17:09</property>
         <property name="originalScheme">_@user_Github3 Dark Dimmed</property>
     </metaInfo>
     <colors>
@@ -442,6 +442,17 @@
                 <option name="FOREGROUND" value="96d0ff" />
                 <option name="BACKGROUND" value="22272e" />
                 <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="org.rust.LIFETIME">
+            <value>
+                <option name="FOREGROUND" value="f47067" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.TYPE_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="f69d50" />
             </value>
         </option>
     </attributes>
