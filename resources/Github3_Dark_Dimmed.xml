@@ -1,9 +1,9 @@
 <scheme name="Github3 Dark Dimmed" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-08-04T08:16:42</property>
-        <property name="ide">CLion</property>
+        <property name="created">2021-08-04T15:47:09</property>
+        <property name="ide">PhpStorm</property>
         <property name="ideVersion">2021.2.0.0</property>
-        <property name="modified">2021-08-04T08:17:09</property>
+        <property name="modified">2021-08-04T15:47:15</property>
         <property name="originalScheme">_@user_Github3 Dark Dimmed</property>
     </metaInfo>
     <colors>
@@ -347,6 +347,49 @@
             <value>
                 <option name="FOREGROUND" value="dcbdfb" />
             </value>
+        </option>
+        <option name="PHP_ALIAS_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="PHP_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="PHP_DOC_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="PHP_EXEC_COMMAND_ID">
+            <value>
+                <option name="FOREGROUND" value="96d0ff" />
+                <option name="BACKGROUND" value="5e6465" />
+            </value>
+        </option>
+        <option name="PHP_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="6cb6ff" />
+            </value>
+        </option>
+        <option name="PHP_NAMED_ARGUMENT">
+            <value>
+                <option name="FOREGROUND" value="f69d50" />
+            </value>
+        </option>
+        <option name="PHP_PARAMETER">
+            <value />
+        </option>
+        <option name="PHP_SCRIPTING_BACKGROUND">
+            <value />
+        </option>
+        <option name="PHP_VAR">
+            <value />
+        </option>
+        <option name="PHP_VAR_VAR">
+            <value />
         </option>
         <option name="PROPERTIES.KEY">
             <value>
