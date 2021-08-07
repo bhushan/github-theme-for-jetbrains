@@ -11,7 +11,7 @@
 ## Build from Source
 
 ### Prerequisites
-Gradle runs on all major operating systems and requires only a Java Development Kit version 8 or higher to run. To check, run java -version. You should see something like this:
+Gradle runs on all major operating systems and requires only a [Java Development](https://jdk.java.net/) Kit version 8 or higher to run. To check, run java -version. You should see something like this:
 ```bash
 $java -version
 java version "1.8.0_151"
