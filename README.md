@@ -1,6 +1,6 @@
 # Github3 Theme for JetBrains
 
-## Light
+## Light 1
 
 ![screenshot](https://plugins.jetbrains.com/files/15418/screenshot_23734.png)
 
