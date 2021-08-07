@@ -7,7 +7,7 @@
     "*": {
       "background": "#202020",
       "foreground": "#adbac7",
-      "disabledBackground": "#2F3032",
+      "disabledBackground": "#2F3033",
       "inactiveBackground": "#22272d",
 
       "selectionBackground": "#2d333b",
