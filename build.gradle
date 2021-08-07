@@ -12,7 +12,7 @@ repositories {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = '2020.2.4'
+    version = '2019.1'
     updateSinceUntilBuild = false
 }
 patchPluginXml {
