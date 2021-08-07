@@ -23,3 +23,6 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.151-b12, mixed mode)
 $./gradlew build
 ```
 The generated target files are located in build/libs.
+
+<!-- Plugin description -->
+<!-- Plugin description end -->
