@@ -1,6 +1,6 @@
 <p align="center"><a href="https://plugins.jetbrains.com/plugin/15418-github3-theme" target="_blank"><img src="https://raw.githubusercontent.com/jiyuan0125/Github3/master/src/main/resources/META-INF/pluginIcon.svg" width="150"></a></p>
 
-<p align="center"><h1 align="center">Github3 Theme for JetBrains</h1></p>
+<p align="center"><h1 align="center">Github Theme for JetBrains</h1></p>
 
 ![Build](https://github.com/jiyuan0125/Github3/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)

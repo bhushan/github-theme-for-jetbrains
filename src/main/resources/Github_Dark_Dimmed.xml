@@ -1,10 +1,10 @@
-<scheme name="Github3 Dark Dimmed" version="142" parent_scheme="Darcula">
+<scheme name="Github Dark Dimmed" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="created">2021-08-05T08:57:01</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2021.2.0.0</property>
         <property name="modified">2021-08-05T08:57:18</property>
-        <property name="originalScheme">_@user_Github3 Dark Dimmed</property>
+        <property name="originalScheme">_@user_Github Dark Dimmed</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="6cb6ff"/>

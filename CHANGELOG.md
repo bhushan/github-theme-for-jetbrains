@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Github3 Theme Changelog
+# Github Theme Changelog
 
 ## [Unreleased]
 

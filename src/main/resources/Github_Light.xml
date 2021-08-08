@@ -1,10 +1,10 @@
-<scheme name="GitHub3 Light" version="142" parent_scheme="Default">
+<scheme name="GitHub Light" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="created">2020-12-01T14:38:17</property>
         <property name="ide">Idea</property>
         <property name="ideVersion">2020.2.4.0.0</property>
         <property name="modified">2020-12-01T14:38:23</property>
-        <property name="originalScheme">_@user_GitHub3</property>
+        <property name="originalScheme">_@user_GitHub Light</property>
     </metaInfo>
     <colors>
         <option name="CARET_ROW_COLOR" value="f1f8ff"/>
