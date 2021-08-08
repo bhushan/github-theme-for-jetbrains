@@ -1,10 +1,10 @@
 <idea-plugin>
-  <id>club.nutsoft.Github3Theme</id>
-  <name>Github3 Theme</name>
-  <version>1.1.0</version>
-  <vendor email="jiyuan0125@126.com" url="https://github.com/jiyuan0125/Github3">jiyuan0125</vendor>
+    <id>club.nutsoft.Github3Theme</id>
+    <name>Github3 Theme</name>
+    <version>1.1.0</version>
+    <vendor email="jiyuan0125@126.com" url="https://github.com/jiyuan0125/Github3">jiyuan0125</vendor>
 
-  <description><![CDATA[
+    <description><![CDATA[
   Github3 Theme
   <br/><br/>
   To install:
@@ -17,7 +17,7 @@
 
     ]]></description>
 
-  <change-notes><![CDATA[
+    <change-notes><![CDATA[
   <b>1.1.0</b>
   <ul>
     <li>Add github dark dimmed theme</li>
@@ -36,23 +36,23 @@
     <li>Unbundle plugin screenshots</li>
   </ul>
     ]]>
-  </change-notes>
+    </change-notes>
 
-  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="191.0"/>
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="191.0"/>
 
-  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
-       on how to target different products -->
-  <depends>com.intellij.modules.platform</depends>
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
 
-  <extensions defaultExtensionNs="com.intellij">
-    <!-- Add your extensions here -->
-    <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Github3_Light.theme.json"/>
-    <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/Github3_Dark_Dimmed.theme.json"/>
-  </extensions>
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Github3_Light.theme.json"/>
+        <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/Github3_Dark_Dimmed.theme.json"/>
+    </extensions>
 
-  <actions>
-    <!-- Add your actions here -->
-  </actions>
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
 
 </idea-plugin>
