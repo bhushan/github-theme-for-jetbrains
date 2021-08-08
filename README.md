@@ -2,6 +2,10 @@
 
 <p align="center"><h1 align="center">Github3 Theme for JetBrains</h1></p>
 
+![Build](https://github.com/jiyuan0125/Github3/workflows/Build/badge.svg)
+[![Version](https://img.shields.io/jetbrains/plugin/v/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
+
 ## Light
 
 ![screenshot](https://plugins.jetbrains.com/files/15418/screenshot_23734.png)
