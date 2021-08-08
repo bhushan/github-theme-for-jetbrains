@@ -1,4 +1,7 @@
-# Github3 Theme for JetBrains
+<p align="center"><a href="https://plugins.jetbrains.com/plugin/15418-github3-theme" target="_blank"><img src="https://raw.githubusercontent.com/jiyuan0125/Github3/master/src/main/resources/META-INF/pluginIcon.svg" width="150"></a></p>
+
+<p align="center"><h1 align="center">Github3 Theme for JetBrains</h1></p>
+
 
 ## Light
 
@@ -7,6 +10,10 @@
 ## Dark Dimmed
 
 ![screenshot](https://plugins.jetbrains.com/files/15418/screenshot_987a1d22-b4e4-430f-864c-9c6097cef57e)
+
+## Installation
+
+If you just need to install this plugin then you could install it from official Jetbrains Plugin Store from [here](https://plugins.jetbrains.com/plugin/15418-github3-theme)
 
 ## Build from Source
 
@@ -26,3 +33,5 @@ The generated target files are located in build/libs.
 
 <!-- Plugin description -->
 <!-- Plugin description end -->
+
+Enjoy Beautiful IDE and Happy Coding !!
