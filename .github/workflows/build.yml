@@ -2,15 +2,12 @@
 # - validate Gradle Wrapper,
 # - run test and verifyPlugin tasks,
 # - run buildPlugin task and prepare artifact for the further tests,
-# - run IntelliJ Plugin Verifier,
 # - create a draft release.
 #
 # Workflow is triggered on push and pull_request events.
 #
 # Docs:
 # - GitHub Actions: https://help.github.com/en/actions
-# - IntelliJ Plugin Verifier GitHub Action: https://github.com/ChrisCarini/intellij-platform-plugin-verifier-action
-
 
 name: Build
 on:
