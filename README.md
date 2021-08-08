@@ -12,8 +12,18 @@
 
 ## Installation
 
-If you just need to install this plugin then you could install it from official Jetbrains Plugin Store
-from [here](https://plugins.jetbrains.com/plugin/15418-github3-theme)
+- If you just need to install this plugin then you could install it from official Jetbrains Plugin Store
+  from [here](https://plugins.jetbrains.com/plugin/15418-github3-theme)
+
+- Using IDE built-in plugin system:
+  
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "PHPStorm-Theme"</kbd> >
+  <kbd>Install Plugin</kbd>
+  
+- Manually:
+
+  Download the [latest release](https://github.com/jiyuan0125/Github3/releases/latest) and install it manually using
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Build from Source
 
