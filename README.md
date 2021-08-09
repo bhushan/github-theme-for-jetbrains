@@ -6,6 +6,12 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
 
+<!-- Plugin description -->
+Github Theme for Jetbrains is heavily inspired by [GitHub 3 Color Scheme](https://plugins.jetbrains.com/plugin/12271-github-3-color-scheme) and [github-vscode-theme](https://github.com/primer/github-vscode-theme).
+
+The focus of the development of this theme plugin is to restore the official GitHub theme as much as possible, keeping the colors easy to distinguish, proper contrast, and pleasant.
+<!-- Plugin description end -->
+
 ## Light
 
 ![screenshot](https://plugins.jetbrains.com/files/15418/screenshot_23734.png)
@@ -50,8 +56,5 @@ $./gradlew build
 ```
 
 The generated target files are located in build/libs.
-
-<!-- Plugin description -->
-<!-- Plugin description end -->
 
 ## Enjoy Beautiful IDE and Happy Coding !!
