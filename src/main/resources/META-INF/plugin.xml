@@ -1,8 +1,9 @@
 <idea-plugin>
     <id>club.nutsoft.Github3Theme</id>
     <name>GitHub Theme</name>
-    <version>1.1.0</version>
-    <vendor email="jiyuan0125@126.com" url="https://github.com/jiyuan0125/github-theme-for-jetbrains">jiyuan0125</vendor>
+    <version>1.1.5</version>
+    <vendor email="bhushangaykawad@gmail.com" url="https://github.com/bhushan/github-theme-for-jetbrains">Bhushan
+    </vendor>
 
     <description><![CDATA[
   GitHub Theme
@@ -17,27 +18,6 @@
 
     ]]></description>
 
-    <change-notes><![CDATA[
-  <b>1.1.0</b>
-  <ul>
-    <li>Add GitHub Dark Dimmed theme</li>
-  </ul>
-  <b>1.0.2</b>
-  <ul>
-    <li>Fixes missing Java annotation attribute name</li>
-  </ul>
-  <b>1.0.1</b>
-  <ul>
-    <li>Change console color</li>
-  </ul>
-  <b>1.0</b>
-  <ul>
-    <li>Add installation instructions</li>
-    <li>Unbundle plugin screenshots</li>
-  </ul>
-    ]]>
-    </change-notes>
-
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
     <idea-version since-build="191.0"/>
 
@@ -49,10 +29,15 @@
         <!-- Add your extensions here -->
         <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/GitHub_Light.theme.json"/>
         <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/GitHub_Dark_Dimmed.theme.json"/>
+        <themeProvider id="0f04721d-319a-4046-acf8-64d81069d3f5" path="/GitHub_Dark.theme.json"/>
     </extensions>
 
     <actions>
         <!-- Add your actions here -->
     </actions>
 
+    <change-notes><![CDATA[
+        <b>Change notes can be found https://github.com/bhushan/github-theme-for-jetbrains/blob/master/CHANGELOG.md here.</b>
+    ]]>
+    </change-notes>
 </idea-plugin>

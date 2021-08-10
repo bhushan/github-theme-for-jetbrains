@@ -1,0 +1,19 @@
+{
+  "name": "GitHub Dark BETA",
+  "dark": true,
+  "author": "Bhushan <bhushangaykawad@gmail.com>",
+  "editorScheme": "/GitHub_Dark.xml",
+  "ui": {
+    "*": {
+      "background": "#090c10",
+      "foreground": "#c9d1d9",
+      "selectionBackground": "#173456",
+      "selectionInactiveBackground": "#173456",
+      "borderColor": "#30363d",
+      "disabledBorderColor": "#333336",
+      "separatorForeground": "#30363d",
+      "separatorColor": "#30363d",
+      "lineSeparatorColor": "#30363d"
+    }
+  }
+}
