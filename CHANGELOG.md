@@ -3,7 +3,6 @@
 # Github Theme Changelog
 
 ## [Unreleased]
-## [1.1.1]
 ### Fixed
 - Fix some colors
 
