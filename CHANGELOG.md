@@ -5,10 +5,7 @@
 ## [Unreleased]
 ## [1.1.1]
 ### Fixed
-
 - Fix some colors
-
-Thanks to [Bhushan](https://github.com/bhushan) for his outstanding contribution.
 
 ## [1.1.0]
 
