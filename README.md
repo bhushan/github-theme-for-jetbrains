@@ -27,7 +27,7 @@ The focus of the development of this theme plugin is to restore the official Git
 
 - Using IDE built-in plugin system:
   
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "PHPStorm-Theme"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "GitHub-Theme"</kbd> >
   <kbd>Install Plugin</kbd>
   
 - Manually:
