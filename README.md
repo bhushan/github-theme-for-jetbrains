@@ -29,7 +29,7 @@ Thanks to [Bhushan](https://github.com/bhushan) for his outstanding contribution
 
 - Using IDE built-in plugin system:
   
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "GitHub-Theme"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "GitHub Theme"</kbd> >
   <kbd>Install Plugin</kbd>
   
 - Manually:
