@@ -16,11 +16,13 @@ Thanks to [Bhushan](https://github.com/bhushan) for his outstanding contribution
 
 ## Light
 
-![screenshot](https://plugins.jetbrains.com/files/15418/screenshot_23734.png)
+![screenshot](readme/img/light/php.png)
 
 ## Dark Dimmed
 
-![screenshot](https://plugins.jetbrains.com/files/15418/screenshot_987a1d22-b4e4-430f-864c-9c6097cef57e)
+![screenshot](readme/img/dark_dimmed/php.png)
+
+More [screenshots](readme/screenshot.md)
 
 ## Installation
 
