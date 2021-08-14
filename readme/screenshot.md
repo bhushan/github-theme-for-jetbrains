@@ -1,6 +1,6 @@
 # Light
 
-## Php
+## PHP
 
 ![screenshot](./img/light/php.png)
 
@@ -8,7 +8,7 @@
 
 ![screenshot](./img/light/java.png)
 
-## JavaScript
+## JavaScript / Typescript
 
 ![screenshot](./img/light/javascript.png)
 
@@ -34,7 +34,7 @@
 
 # Dark Dimmed
 
-## Php
+## PHP
 
 ![screenshot](./img/dark_dimmed/php.png)
 
@@ -42,7 +42,7 @@
 
 ![screenshot](./img/dark_dimmed/java.png)
 
-## JavaScript
+## JavaScript / Typescript
 
 ![screenshot](./img/dark_dimmed/javascript.png)
 
