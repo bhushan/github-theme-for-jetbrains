@@ -16,11 +16,11 @@ Thanks to [Bhushan](https://github.com/bhushan) for his outstanding contribution
 
 ## Light
 
-![screenshot](readme/img/light/php.png)
+![screenshot](readme/img/light/javascript.png)
 
 ## Dark Dimmed
 
-![screenshot](readme/img/dark_dimmed/php.png)
+![screenshot](readme/img/dark_dimmed/javascript.png)
 
 More [screenshots](readme/screenshot.md)
 
