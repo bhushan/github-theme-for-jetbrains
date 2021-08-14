@@ -7,9 +7,12 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
 
 <!-- Plugin description -->
-[GitHub Theme for Jetbrains](https://plugins.jetbrains.com/plugin/15418-github-theme) is heavily inspired by [GitHub 3 Color Scheme](https://plugins.jetbrains.com/plugin/12271-github-3-color-scheme) and [github-vscode-theme](https://github.com/primer/github-vscode-theme).
+[GitHub Theme for Jetbrains](https://plugins.jetbrains.com/plugin/15418-github-theme) is heavily inspired
+by [GitHub 3 Color Scheme](https://plugins.jetbrains.com/plugin/12271-github-3-color-scheme)
+and [github-vscode-theme](https://github.com/primer/github-vscode-theme).
 
-The focus of the development of this theme plugin is to restore the official GitHub theme as much as possible, keeping the colors easy to distinguish, proper contrast, and pleasant.
+The focus of the development of this theme plugin is to restore the official GitHub theme as much as possible, keeping
+the colors easy to distinguish, proper contrast, and pleasant.
 
 Thanks to [Bhushan](https://github.com/bhushan) for his outstanding contribution.
 <!-- Plugin description end -->
@@ -30,13 +33,14 @@ More [screenshots](readme/screenshot.md)
   from [here](https://plugins.jetbrains.com/plugin/15418-github3-theme)
 
 - Using IDE built-in plugin system:
-  
+
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "GitHub Theme"</kbd> >
   <kbd>Install Plugin</kbd>
-  
+
 - Manually:
 
-  Download the [latest release](https://github.com/jiyuan0125/github-theme-for-jetbrains/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/jiyuan0125/github-theme-for-jetbrains/releases/latest) and install it
+  manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Build from Source
