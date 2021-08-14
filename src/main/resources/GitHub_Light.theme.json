@@ -1,8 +1,8 @@
 {
-  "name": "Github Light",
+  "name": "GitHub Light",
   "dark": false,
   "author": "Su Jiyuan",
-  "editorScheme": "/Github_Light.xml",
+  "editorScheme": "/GitHub_Light.xml",
   "ui": {
     "*": {
       "selectionBackground":  "#2675BF",

@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Github Theme Changelog
+# GitHub Theme Changelog
 
 ## [Unreleased]
 ### Fixed
@@ -10,7 +10,7 @@
 
 ### Added
 
-- Github dark dimmed theme
+- GitHub dark dimmed theme
 
 ## [1.0.2]
 
