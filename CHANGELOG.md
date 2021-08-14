@@ -3,6 +3,14 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
+
+## [1.1.2]
+
+- minor improvements and fixes
+
+## [1.1.1]
+
 ### Fixed
 - Fix some colors
 
