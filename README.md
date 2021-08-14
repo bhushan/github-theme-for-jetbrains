@@ -1,13 +1,13 @@
-<p align="center"><a href="https://plugins.jetbrains.com/plugin/15418-github3-theme" target="_blank"><img src="https://raw.githubusercontent.com/jiyuan0125/Github3/master/src/main/resources/META-INF/pluginIcon.svg" width="150"></a></p>
+<p align="center"><a href="https://plugins.jetbrains.com/plugin/15418-github3-theme" target="_blank"><img src="https://raw.githubusercontent.com/jiyuan0125/github-theme-for-jetbrains/master/src/main/resources/META-INF/pluginIcon.svg" width="150"></a></p>
 
 <p align="center"><h1 align="center">GitHub Theme for JetBrains</h1></p>
 
-![Build](https://github.com/jiyuan0125/Github3/workflows/Build/badge.svg)
+![Build](https://github.com/jiyuan0125/github-theme-for-jetbrains/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
 
 <!-- Plugin description -->
-[Github Theme for Jetbrains](https://plugins.jetbrains.com/plugin/15418-github-theme) is heavily inspired by [GitHub 3 Color Scheme](https://plugins.jetbrains.com/plugin/12271-github-3-color-scheme) and [github-vscode-theme](https://github.com/primer/github-vscode-theme).
+[GitHub Theme for Jetbrains](https://plugins.jetbrains.com/plugin/15418-github-theme) is heavily inspired by [GitHub 3 Color Scheme](https://plugins.jetbrains.com/plugin/12271-github-3-color-scheme) and [github-vscode-theme](https://github.com/primer/github-vscode-theme).
 
 The focus of the development of this theme plugin is to restore the official GitHub theme as much as possible, keeping the colors easy to distinguish, proper contrast, and pleasant.
 
@@ -36,7 +36,7 @@ More [screenshots](readme/screenshot.md)
   
 - Manually:
 
-  Download the [latest release](https://github.com/jiyuan0125/Github3/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/jiyuan0125/github-theme-for-jetbrains/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Build from Source

@@ -1,8 +1,8 @@
 {
-  "name": "Github Dark Dimmed",
+  "name": "GitHub Dark Dimmed",
   "dark": true,
   "author": "Bhushan <bhushangaykawad@gmail.com>",
-  "editorScheme": "/Github_Dark_Dimmed.xml",
+  "editorScheme": "/GitHub_Dark_Dimmed.xml",
   "ui": {
     "*": {
       "background": "#1e2228",
