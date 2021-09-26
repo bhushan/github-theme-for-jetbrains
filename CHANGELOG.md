@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+Fix: Warning background on light mode made visible
+
 ## [1.1.2]
 
 - minor improvements and fixes
