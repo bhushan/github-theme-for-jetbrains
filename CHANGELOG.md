@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+Fix Java colors for 2021
 ## [1.1.3]
 
 Fix: Warning background on light mode made visible
