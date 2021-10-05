@@ -14,7 +14,8 @@ and [github-vscode-theme](https://github.com/primer/github-vscode-theme).
 The focus of the development of this theme plugin is to restore the official GitHub theme as much as possible, keeping
 the colors easy to distinguish, proper contrast, and pleasant.
 
-Thanks to [Bhushan](https://github.com/bhushan) for his outstanding contribution.
+Thanks to [Jiyuan Su](https://github.com/jiyuan0125) for building such a nice looking theme and outstanding contributions to the project.
+
 <!-- Plugin description end -->
 
 ## Light
