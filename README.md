@@ -1,4 +1,4 @@
-<p align="center"><a href="https://plugins.jetbrains.com/plugin/15418-github3-theme" target="_blank"><img src="https://raw.githubusercontent.com/jiyuan0125/github-theme-for-jetbrains/master/src/main/resources/META-INF/pluginIcon.svg" width="150"></a></p>
+<p align="center"><a href="https://plugins.jetbrains.com/plugin/15418-github3-theme" target="_blank"><img src="https://raw.githubusercontent.com/bhushan/github-theme-for-jetbrains/master/src/main/resources/META-INF/pluginIcon.svg" width="150"></a></p>
 
 <p align="center"><h1 align="center">GitHub Theme for JetBrains</h1></p>
 
