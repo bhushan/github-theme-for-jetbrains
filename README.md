@@ -2,9 +2,9 @@
 
 <p align="center"><h1 align="center">GitHub Theme for JetBrains</h1></p>
 
-![Build](https://github.com/jiyuan0125/github-theme-for-jetbrains/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/club.nutsoft.Github3Theme.svg)](https://plugins.jetbrains.com/plugin/club.nutsoft.Github3Theme)
+![Build](https://github.com/bhushan/github-theme-for-jetbrains/workflows/Build/badge.svg)
+[![Version](https://img.shields.io/jetbrains/plugin/v/15418-github-theme.svg)](https://plugins.jetbrains.com/plugin/15418-github-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/15418-github-theme.svg)](https://plugins.jetbrains.com/plugin/15418-github-theme)
 
 <!-- Plugin description -->
 [GitHub Theme for Jetbrains](https://plugins.jetbrains.com/plugin/15418-github-theme) is heavily inspired
@@ -40,7 +40,7 @@ More [screenshots](readme/screenshot.md)
 
 - Manually:
 
-  Download the [latest release](https://github.com/jiyuan0125/github-theme-for-jetbrains/releases/latest) and install it
+  Download the [latest release](https://github.com/bhushan/github-theme-for-jetbrains/releases/latest) and install it
   manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
