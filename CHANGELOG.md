@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+## [1.1.5]
 
 Feat: added dark theme beta version
 
