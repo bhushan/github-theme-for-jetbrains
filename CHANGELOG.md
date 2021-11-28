@@ -3,17 +3,20 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
+- Fix: dependabot target branch pointed to master
+
 ## [1.1.5]
 
-Feat: added dark theme beta version
+- Feat: added dark theme beta version
 
 ## [1.1.4]
 
-Fix: Formatting Changes
+- Fix: Formatting Changes
 
 ## [1.1.3]
 
-Fix: Warning background on light mode made visible
+- Fix: Warning background on light mode made visible
 
 ## [1.1.2]
 
