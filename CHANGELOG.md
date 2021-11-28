@@ -3,6 +3,9 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
+Feat: added dark theme beta version
+
 ## [1.1.4]
 
 Fix: Formatting Changes
