@@ -1,6 +1,7 @@
 # Description
 
-⚠️ Remember to update changelog!.
+- ⚠️ Remember to update changelog!.
+- ⚠️ Remember to update property `pluginVersion` in gradle.properties file!.
 
 ## Type of change
 
