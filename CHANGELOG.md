@@ -3,6 +3,9 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
+Fix: Formatting Changes
+
 ## [1.1.3]
 
 Fix: Warning background on light mode made visible
@@ -14,6 +17,7 @@ Fix: Warning background on light mode made visible
 ## [1.1.1]
 
 ### Fixed
+
 - Fix some colors
 
 ## [1.1.0]
