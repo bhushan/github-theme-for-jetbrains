@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+## [1.1.6]
 
 - Fix: dependabot target branch pointed to master
 
