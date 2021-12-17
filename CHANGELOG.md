@@ -3,6 +3,9 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
+- Fix: Naming attribution
+
 ## [1.1.6]
 
 - Fix: dependabot target branch pointed to master
