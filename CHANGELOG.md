@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+## [1.1.7]
 
 - Fix: Naming attribution
 
