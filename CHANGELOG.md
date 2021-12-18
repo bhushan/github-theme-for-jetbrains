@@ -3,6 +3,9 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
+- Feat: add contributors on readme
+
 ## [1.1.7]
 
 - Fix: Naming attribution

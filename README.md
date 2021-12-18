@@ -66,4 +66,11 @@ $./gradlew build
 
 The generated target files are located in build/libs.
 
+
+## Our valuable Contributors👩‍💻👨‍💻 :
+
+<a href="https://github.com/bhushan/github-theme-for-jetbrains/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=bhushan/github-theme-for-jetbrains" />
+</a>
+
 ## Enjoy Beautiful IDE and Happy Coding !!
