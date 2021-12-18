@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+## [1.1.8]
 
 - Feat: add contributors on readme
 
