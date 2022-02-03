@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+## [1.1.9]
 
 - Feat: mark dark mode as stable
 
