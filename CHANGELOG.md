@@ -3,6 +3,9 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
+- Feat: mark dark mode as stable
+
 ## [1.1.8]
 
 - Feat: add contributors on readme
