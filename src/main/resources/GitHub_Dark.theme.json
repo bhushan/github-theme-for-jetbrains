@@ -1,7 +1,7 @@
 {
-  "name": "GitHub Dark",
+  "name": "Dark",
   "dark": true,
-  "author": "Bhushan <bhushangaykawad@gmail.com>",
+  "author": "Awais <owaesmirza@gmail.com>",
   "editorScheme": "/GitHub_Dark.xml",
   "ui": {
     "*": {
