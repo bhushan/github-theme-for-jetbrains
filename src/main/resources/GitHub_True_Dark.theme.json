@@ -1,0 +1,20 @@
+{
+  "name": "GitHub True Dark",
+  "dark": true,
+  "author": "Bhushan <bhushangaykawad@gmail.com>",
+  "editorScheme": "/GitHub_True_Dark.xml",
+  "ui": {
+    "*": {
+      "background": "#252526",
+      "foreground": "#c9d1d9",
+      "selectionBackground": "#306396",
+      "selectionInactiveBackground": "#306396",
+      "borderColor": "#30363d",
+      "disabledBorderColor": "#333336",
+      "separatorForeground": "#30363d",
+      "separatorColor": "#30363d",
+      "lineSeparatorColor": "#30363d"
+    }
+  }
+
+}
