@@ -7,11 +7,11 @@
     "*": {
       "background": "#252526",
       "foreground": "#c9d1d9",
-      "selectionBackground": "#306396",
-      "selectionInactiveBackground": "#306396",
+      "selectionBackground": "#223e54",
+      "selectionInactiveBackground": "#223e54",
       "borderColor": "#30363d",
       "disabledBorderColor": "#333336",
-      "separatorForeground": "#30363d",
+      "separatorForeground": "#c9d1d9",
       "separatorColor": "#30363d",
       "lineSeparatorColor": "#30363d"
     }
