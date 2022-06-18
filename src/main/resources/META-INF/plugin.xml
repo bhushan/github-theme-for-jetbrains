@@ -30,8 +30,8 @@
         <!-- Add your extensions here -->
         <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/GitHub_Light.theme.json"/>
         <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/GitHub_Dark_Dimmed.theme.json"/>
-        <themeProvider id="0f04721d-319a-4046-acf8-64d81069d3f5" path="/GitHub_Dark.theme.json"/>
-        <themeProvider id="e73dac03-3ae2-4ad3-ae63-a9d2beb93056" path="/GitHub_True_Dark.theme.json"/>
+        <themeProvider id="0f04721d-319a-4046-acf8-64d81069d3f5" path="/GitHub_Dark_High_Contrast.theme.json"/>
+        <themeProvider id="e73dac03-3ae2-4ad3-ae63-a9d2beb93056" path="/GitHub_Dark.theme.json"/>
     </extensions>
 
     <actions>

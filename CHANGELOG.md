@@ -3,10 +3,9 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+
 - Feat: Adds a new Dark Mode, which is greyish and not completely black.
 
-
-## [Unreleased]
 ## [1.1.9]
 
 - Feat: mark dark mode as stable

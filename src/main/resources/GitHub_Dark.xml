@@ -1,17 +1,17 @@
 <scheme name="GitHub Dark" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-08-05T08:57:01</property>
+        <property name="created">2022-06-09T22:52:00</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2021.2.0.0</property>
-        <property name="modified">2021-08-05T08:57:18</property>
-        <property name="originalScheme">_@user_Github Dark</property>
+        <property name="modified">2022-06-18T20:41:23</property>
+        <property name="originalScheme">_@user_GitHub Dark</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="79c0ff"/>
-        <option name="CARET_ROW_COLOR" value="161b22"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="090c10"/>
-        <option name="GUTTER_BACKGROUND" value="0d1117"/>
-        <option name="SELECTION_BACKGROUND" value="173456"/>
+        <option name="CARET_ROW_COLOR" value="303030"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e"/>
+        <option name="GUTTER_BACKGROUND" value="1e1e1e"/>
+        <option name="SELECTION_BACKGROUND" value="245187"/>
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -492,7 +492,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="c9d1d9"/>
-                <option name="BACKGROUND" value="0d1117"/>
+                <option name="BACKGROUND" value="1e1e1e"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -556,7 +556,7 @@
         <option name="YAML_TEXT">
             <value>
                 <option name="FOREGROUND" value="a5d6ff"/>
-                <option name="BACKGROUND" value="0d1117"/>
+                <option name="BACKGROUND" value="1e1e1e"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>

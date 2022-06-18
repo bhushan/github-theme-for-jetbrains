@@ -22,6 +22,10 @@ Thanks to [Jiyuan Su](https://github.com/jiyuan0125) for building such a nice lo
 
 ![screenshot](readme/img/light/javascript.png)
 
+## Dark
+
+![screenshot](readme/img/dark/javascript.png)
+
 ## Dark Dimmed
 
 ![screenshot](readme/img/dark_dimmed/javascript.png)

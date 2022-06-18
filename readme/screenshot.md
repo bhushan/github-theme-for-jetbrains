@@ -32,6 +32,12 @@
 
 ![screenshot](./img/light/ruby.png)
 
+# Dark
+
+## JavaScript / Typescript
+
+![screenshot](./img/dark/javascript.png)
+
 # Dark Dimmed
 
 ## PHP
