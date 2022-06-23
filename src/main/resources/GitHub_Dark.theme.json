@@ -1,5 +1,5 @@
 {
-  "name": "GitHub Dark",
+  "name": "GitHub Dark Experimental",
   "dark": true,
   "author": "Manuel Poelzl <manuel.poelzl2@gmail.com>",
   "editorScheme": "/GitHub_Dark.xml",
@@ -16,5 +16,4 @@
       "lineSeparatorColor": "#30363d"
     }
   }
-
 }
