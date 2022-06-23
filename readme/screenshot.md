@@ -32,6 +32,40 @@
 
 ![screenshot](./img/light/ruby.png)
 
+# Dark
+
+## PHP
+
+![screenshot](./img/dark/php.png)
+
+## Java
+
+![screenshot](./img/dark/java.png)
+
+## JavaScript / Typescript
+
+![screenshot](./img/dark/javascript.png)
+
+## C++
+
+![screenshot](./img/dark/c++.png)
+
+## Go
+
+![screenshot](./img/dark/go.png)
+
+## Python
+
+![screenshot](./img/dark/python.png)
+
+## Rust
+
+![screenshot](./img/dark/rust.png)
+
+## Ruby
+
+![screenshot](./img/dark/ruby.png)
+
 # Dark Dimmed
 
 ## PHP
