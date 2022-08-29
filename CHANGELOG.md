@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+## [1.2.0]
 
 - Feat: Adds a new Dark Mode, which is greyish and not completely black.
 
