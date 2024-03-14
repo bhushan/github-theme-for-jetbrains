@@ -3,6 +3,8 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+Feat: added whitespace colors
+
 ## [1.2.0]
 
 - Feat: Adds a new Dark Mode, which is greyish and not completely black.
