@@ -5,8 +5,7 @@ parent_scheme="Darcula">
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
     <property name="modified">2022-06-18T20:41:23</property>
-    <property name="originalScheme">_@user_GitHub Dark
-    Experimental</property>
+    <property name="originalScheme">_@user_GitHub Dark</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="79c0ff" />
@@ -14,6 +13,7 @@ parent_scheme="Darcula">
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e" />
     <option name="GUTTER_BACKGROUND" value="1e1e1e" />
     <option name="SELECTION_BACKGROUND" value="245187" />
+    <option name="WHITESPACES" value="afafaf" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">

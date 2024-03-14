@@ -13,6 +13,7 @@ parent_scheme="Darcula">
     <option name="CONSOLE_BACKGROUND_KEY" value="1e2228" />
     <option name="GUTTER_BACKGROUND" value="22272e" />
     <option name="SELECTION_BACKGROUND" value="274467" />
+    <option name="WHITESPACES" value="d7d7d7" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
