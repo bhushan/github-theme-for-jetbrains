@@ -12,6 +12,7 @@
     <option name="LINE_NUMBERS_COLOR" value="babbbd" />
     <option name="SELECTION_BACKGROUND" value="aedaf7" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="WHITESPACES" value="000000" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
