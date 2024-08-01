@@ -14,6 +14,10 @@
       "separatorForeground": "#30363d",
       "separatorColor": "#30363d",
       "lineSeparatorColor": "#30363d"
+    },
+    "ToolWindow.Header.inactiveBackground": "#0d1118",
+    "EditorTabs": {
+      "underlinedTabBackground": "#0d1116"
     }
   }
 }
