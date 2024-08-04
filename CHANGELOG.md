@@ -3,6 +3,7 @@
 # GitHub Theme Changelog
 
 ## [Unreleased]
+Fix: the tool window header and editor tab for GitHub Dark Contrast
 Feat: added whitespace colors
 
 ## [1.2.0]
