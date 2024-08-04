@@ -17,10 +17,10 @@ jobs:
 
       # Setup Java 1.8 environment for the next steps
       - name: Setup Java
-        uses: actions/setup-java@v2
+        uses: actions/setup-java@v4
         with:
           distribution: zulu
-          java-version: 8
+          java-version: 17
 
       # Check out current repository
       - name: Fetch Sources
@@ -43,10 +43,10 @@ jobs:
 
       # Setup Java 1.8 environment for the next steps
       - name: Setup Java
-        uses: actions/setup-java@v2
+        uses: actions/setup-java@v4
         with:
           distribution: zulu
-          java-version: 8
+          java-version: 17
 
       # Check out current repository
       - name: Fetch Sources
