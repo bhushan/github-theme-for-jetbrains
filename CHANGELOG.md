@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+## [1.2.3]
+- Fix: Fix popup window header for GitHub Dark Contrast.
+
 ## [1.2.2]
 
 - Fix: the tool window header and editor tab for GitHub Dark Contrast

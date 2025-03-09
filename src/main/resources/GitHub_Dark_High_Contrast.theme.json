@@ -3,9 +3,13 @@
   "dark": true,
   "author": "Bhushan <bhushangaykawad@gmail.com>",
   "editorScheme": "/GitHub_Dark_High_Contrast.xml",
+  "colors": {
+    "Black": "#090c10",
+    "DarkBlue": "#0d1118"
+  },
   "ui": {
     "*": {
-      "background": "#090c10",
+      "background": "Black",
       "foreground": "#c9d1d9",
       "selectionBackground": "#173456",
       "selectionInactiveBackground": "#173456",
@@ -15,9 +19,38 @@
       "separatorColor": "#30363d",
       "lineSeparatorColor": "#30363d"
     },
-    "ToolWindow.Header.inactiveBackground": "#0d1118",
+    "Button": {
+      "foreground": "#F0F6FC",
+      "loadingForeground": "#F0F6FC",
+      "startBackground": "#2A313C",
+      "endBackground": "#2A313C",
+      "startBorderColor": "#3D444D",
+      "endBorderColor": "#3D444D",
+      "focusedBorderColor": "#3D444D"
+    },
+    "NotificationsToolwindow": {
+      "newNotification": {
+        "background": "#30363d80",
+        "hoverBackground": "#30363d50"
+      },
+      "Notification": {
+        "hoverBackground": "#30363d50"
+      }
+    },
+    "ToolWindow": {
+      "background": "DarkBlue",
+      "Header": {
+        "background": "DarkBlue",
+        "inactiveBackground": "DarkBlue"
+      }
+    },
+    "Popup": {
+      "Header": {
+        "activeBackground": "DarkBlue"
+      }
+    },
     "EditorTabs": {
-      "underlinedTabBackground": "#0d1116"
+      "underlinedTabBackground": "Black"
     }
   }
 }
